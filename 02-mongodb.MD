@@ -5,6 +5,7 @@
 
 Setup the MongoDB repo file
 ```
+sudo su -
 vim /etc/yum.repos.d/mongo.repo
 ```
 ```
